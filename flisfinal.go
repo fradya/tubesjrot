@@ -8,7 +8,7 @@ type Klub struct {
 	Seri			int
 	Kalah			int
 	GolMasuk		int
-	GolKemasukan	int
+	GolKemasukan	        int
 	SelisihGol		int
 	Poin			int
 }
